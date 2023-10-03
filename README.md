@@ -1,6 +1,6 @@
 # TCP-Chat
 
-to set it up you need to:
+to set it up you need to: 
 create a folder in C:/Program Files/
 and call it "TCP Chat"
 then drag and drop the settings.json
